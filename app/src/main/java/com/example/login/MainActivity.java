@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity {
         // импортируйте в gradle  implementation 'com.google.android.material:material:1.1.0-alpha07'
         //функционал для стран
         ArrayList<String> countries = new ArrayList<>();
-        String arr[] = new String[]{"dad", "sda"};
+        String arr[] = new String[]{"dad", "sda","dad", "sda","dad", "sda","dad", "sda","dad", "sda","dad", "sda","dad", "sda","dad", "sda","dad", "sda","dad", "sda",};
         for (int i = 0; i < arr.length; i++) {
             countries.add(arr[i]);
         }
